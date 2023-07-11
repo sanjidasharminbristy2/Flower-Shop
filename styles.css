@@ -1,0 +1,93 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner{background-color: #e79dd4;
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.img{
+    width: 400px;
+    
+}
+.banner-content{
+   max-width: 500px;
+}
+
+.banner-title{
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.text{
+    margin-top: 20px;
+    color: #757575;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 30px;
+    font-size: 20px;;
+
+}
+.btn{ background-color: #FD6E0A;
+    border: 0;
+    color: #f0e5ef;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 25px;
+    border-radius: 5px;}
+    main{
+        max-width: 1140px;
+        margin: 0px auto;
+    }
+    main{
+        margin-top: 30px;
+    }
+    .Featured-flower{
+        padding: 20px 10px 0px;
+       
+        background: #FFF8F3;
+        margin: 30px 0px 30px;;
+       
+    }
+    .section-title{
+        color:#181818;
+        text-align: center;
+        font-size: 35px;
+        font-weight: 700;
+    
+        }
+        .section-discription{
+            color: #474747;
+            text-align: center;
+            font-size: 18px;
+    
+        }
+        .Featured-flower-img{
+            display: flex; }
+        .Featured-flower{
+            text-align: center;
+            text-size-adjust: bold;
+        }
+        .flower-title{
+            background: #d798c8; border-radius: 300px 300px 0px 0px;}
+            
+            .img{background-color: #e79dd4;
+              
+                display: flex;
+                align-items: center;
+                justify-content:space-around;
+                
+            }
+            
+            .Featured-flower-delivery{
+                display: flex;padding-bottom:0px;  background-color: #f3c0e7;justify-content:space-between;}
+            .flower-delivery{
+                text-align: center;
+                text-size-adjust: bold;
+                padding: 20px 10px 0px; 
+            }
+    
