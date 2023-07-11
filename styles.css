@@ -75,13 +75,13 @@ body{
         .flower-title{
             background: #d798c8; border-radius: 300px 300px 0px 0px;}
             
-            .img{background-color: #e79dd4;
+            /* .img{background-color: #e79dd4;
               
                 display: flex;
                 align-items: center;
                 justify-content:space-around;
                 
-            }
+            } */
             
             .Featured-flower-delivery{
                 display: flex;padding-bottom:0px;  background-color: #f3c0e7;justify-content:space-between;}
