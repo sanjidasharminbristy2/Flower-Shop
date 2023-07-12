@@ -341,3 +341,17 @@ footer {
     font-weight: 400;
     line-height: normal;
 }
+
+.new-section-f {
+    background-image: url(images/Money-Back-Quarantee-banner-final.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 23px 200px 300px 0px;
+    margin-bottom: 148px;
+    color: #FFF;
+    font-family: "Lato";
+    text-align: center;
+}
