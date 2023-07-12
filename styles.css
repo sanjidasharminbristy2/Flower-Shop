@@ -1,16 +1,8 @@
-* {
-    font-family: "Lato", sans-serif;
-    margin: 0;
-}
-
 /* flower-banner-portions */
 body {
     font-family: "Lato";
-
-    /* display: flex; */
     justify-content: space-between;
     align-items: center;
-
     overflow-x: hidden;
 }
 
@@ -23,11 +15,6 @@ body {
 
 }
 
-/* .img-1 {
-    width: 400px;
-    height: 200px;
-} */
-
 .banner-content {
     max-width: 500px;
 }
@@ -38,9 +25,9 @@ body {
     margin-top: 5px;
     margin-bottom: 0px;
     font-family: "Lato";
-    /* text-emphasis-color:
-        #757575; */
 }
+
+
 
 .text {
     margin-top: 20px;
@@ -65,9 +52,6 @@ body {
 }
 
 /* flower-banner-portions-end */
-
-
-
 
 /* flower-img-portions */
 
@@ -106,15 +90,13 @@ body {
 }
 
 .Featured-container {
-
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .Featured-flower {
-    /* justify-content: center;
-    text-align: center; */
+
 
     padding: 30px 30px 30px;
     font-family: "Lato";
@@ -130,22 +112,16 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
-
-
-
 }
+
+
+
 
 
 .info-description {
     text-align: center;
     padding: 0px;
 }
-
-
-
-/* text-size-adjust: bold;
-} */
 
 /* Featured-flower-delivery */
 .Featured-flower-delivery {
@@ -160,14 +136,20 @@ body {
     justify-content: space-between;
 }
 
+.img-des {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 15px;
+    padding-bottom: 30px;
+    ;
+}
+
 .flower-delivery {
     border-radius: 10px;
     text-align: center;
     font-family: Open Sans;
-    /* text-size-adjust: bold; */
-    padding: 20px 10px 0px;
-    margin: 20px;
-    padding: 30px 30px 30px;
+    padding: 30px 30px 30px 30px;
 
     /* up to 25% off */
 }
@@ -201,14 +183,6 @@ body {
 }
 
 .offer1 {
-    /* text-align: center;
-    color: #272727;
-    font-family: Lato;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: normal; */
-
     color: #272727;
     font-family: Lato;
     font-size: 30px;
@@ -220,18 +194,6 @@ body {
 }
 
 .offer2 {
-    /* display: flex; */
-    /* width: 594px; */
-    /* flex-direction: column; */
-    /* flex-shrink: 0; */
-
-    /* color: rgba(39, 39, 39, 0.60);
-    text-align: center;
-    font-family: Lato;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 30px; */
 
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
@@ -283,18 +245,7 @@ body {
     margin-bottom: 38px;
 }
 
-/* 
-
-
-.instra-media1 {
-    justify-content: space-between;
-
-} */
-
-
-
-
-/* search */
+/* search-bar-portion*/
 
 .search-main {
     margin-top: 128px;
